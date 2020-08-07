@@ -4,7 +4,7 @@ This is a fantasy choose your own adventure story that's currently a work in pro
 
 Already implemented:
 - Story text changes with each choice.
-- Buttons for choices are generated based on the number of options available.
+- Buttons for choices are dynamically generated based on the number of options available.
 
 Things to implement:
 - Health system. It's currently just text.
