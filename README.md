@@ -3,6 +3,7 @@
 This is a fantasy choose your own adventure story that's currently a work in progress.
 
 Already implemented:
+- Overall layout using an MVP pattern.
 - Story text changes with each choice.
 - Buttons for choices are dynamically generated based on the number of options available.
 
