@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Fellbrook</string>
+    <string name="page0">You\'re standing in a forest and it\'s creepy. Suddenly, you hear a noise. What do you do?</string>
+    <string name="page0_choice1">Go and investigate.</string>
+    <string name="page0_choice2">Run -- it isn\'t worth risking your life.</string>
+    <string name="page0_choice3">Go and investigate.</string>
+    <string name="page0_choice4">It works!</string>
+    <string name="page1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id lacus eu arcu rhoncus convallis. Proin mattis arcu et pellentesque lacinia. Donec blandit neque non ante pretium, sed euismod mauris ultricies. Ut tempor lacus nec hendrerit ultricies. Ut quis quam facilisis elit elementum cursus ac non mi. Fusce tincidunt volutpat congue. Curabitur lacinia dictum arcu, id luctus purus efficitur sed. Sed lacinia lacus eu dolor tempor consequat. Pellentesque eu ante mollis, bibendum felis quis, vulputate mi. Etiam dolor leo, euismod ac tempus eget, tempor at leo. Sed egestas at sem at lacinia. Nunc gravida lacus in magna pretium, at placerat felis rhoncus.\n\nEtiam id urna eu dui finibus ullamcorper. Pellentesque in sapien pellentesque, laoreet orci eget, venenatis leo. Aliquam luctus justo nulla, nec eleifend risus vestibulum volutpat. Vivamus vitae enim mollis dolor tempor mattis vitae vel lacus. Nulla ac massa felis. Suspendisse quis porta felis, in gravida nisl. Curabitur euismod est risus, ac condimentum lorem hendrerit at. Ut pellentesque dolor vel libero cursus tempus. Curabitur dui ligula, sollicitudin quis mattis at, fermentum eget orci. Fusce ultricies vitae orci non dapibus. Praesent vitae scelerisque felis. Suspendisse ultricies cursus odio, a ultricies libero sollicitudin eu. Integer eros diam, molestie in tristique eu, lobortis sed tellus. Aliquam erat volutpat. Suspendisse eget tellus nibh. Quisque rutrum, urna at finibus faucibus, metus orci mattis turpis, non fringilla risus sem sed nulla.\n\nVestibulum a nisl quis lacus malesuada placerat eget mollis risus. Nullam vel lacus porttitor, iaculis arcu a, scelerisque leo. Nam non volutpat eros. Donec tincidunt non turpis at ultricies. Mauris facilisis quam eu egestas hendrerit. Maecenas tristique nulla ut quam ultricies tincidunt. Nulla ultrices turpis vitae porttitor iaculis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed maximus suscipit ante sed ultricies. Nunc suscipit dolor a ornare hendrerit. Pellentesque sit amet tristique mauris. Donec sit amet metus libero. Donec porttitor diam mi, in condimentum elit tempus ut. Nunc nec feugiat lorem.\n\nSuspendisse volutpat ex dui, eget sodales orci fermentum et. Nam a blandit dui. Quisque posuere, enim vitae pulvinar aliquet, lacus purus fringilla mi, eu condimentum massa velit vitae eros. Aliquam erat volutpat. Donec eu risus sem. Donec consequat dictum est, sed laoreet enim gravida ac. Nullam ut tempor tellus, quis tincidunt ipsum. Praesent posuere eleifend justo, ac faucibus est aliquam eu. Suspendisse fermentum lacus non elementum porttitor. Phasellus maximus ornare purus, nec pharetra metus varius luctus. Suspendisse facilisis pulvinar sapien non euismod. Curabitur feugiat erat a nibh vestibulum, vitae facilisis mi elementum. Aliquam mattis vitae libero sed tristique. Morbi laoreet egestas nibh sit amet suscipit. Aenean fringilla elit nulla, quis mollis odio hendrerit in. Nullam mattis, metus at euismod laoreet, eros erat volutpat lectus, et rhoncus mauris est ut urna.\n\nQuisque pellentesque felis eget sem porta facilisis. Duis blandit molestie consequat. Sed convallis non dui vitae posuere. Cras egestas venenatis egestas. Fusce sit amet ligula a nisl sollicitudin pellentesque. Nunc commodo tempor suscipit. Donec dictum justo velit, eget sollicitudin sapien pharetra sed. Curabitur hendrerit congue tincidunt. Ut ultricies mauris nec pretium convallis. Nunc ac nisi ipsum. In sit amet est consequat, faucibus lacus eget, placerat libero. Donec auctor fermentum euismod. Phasellus ut commodo quam, sed fringilla lorem.</string>
+    <string name="page1_choice1">Go and investigate.</string>
+    <string name="page1_choice2">Run -- it isn\'t worth risking your life.</string>
+    <string name="page2">You\'re standing in a forest and it\'s creepy. Suddenly, you hear a noise. What do you do?</string>
+    <string name="page2_choice1">Go and investigate.</string>
+    <string name="page2_choice2">Run -- it isn\'t worth risking your life.</string>
+    <string name="page3">You\'re standing in a forest and it\'s creepy. Suddenly, you hear a noise. What do you do?</string>
+    <string name="page3_choice1">Go and investigate.</string>
+    <string name="page3_choice2">Run -- it isn\'t worth risking your life.</string>
+    <string name="page4">You\'re standing in a forest and it\'s creepy. Suddenly, you hear a noise. What do you do?</string>
+    <string name="page4_choice1">Go and investigate.</string>
+    <string name="page4_choice2">Run -- it isn\'t worth risking your life.</string>
+    <string name="page5">You\'re standing in a forest and it\'s creepy. Suddenly, you hear a noise. What do you do?</string>
+    <string name="page5_choice1">Go and investigate.</string>
+    <string name="page5_choice2">Run -- it isn\'t worth risking your life.</string>
+    <string name="page6">You\'re standing in a forest and it\'s creepy. Suddenly, you hear a noise. What do you do?</string>
+    <string name="page6_choice1">Go and investigate.</string>
+    <string name="page6_choice2">Run -- it isn\'t worth risking your life.</string>
+    <string name="page7">You\'re standing in a forest and it\'s creepy. Suddenly, you hear a noise. What do you do?</string>
+    <string name="page7_choice1">Go and investigate.</string>
+    <string name="page7_choice2">Run -- it isn\'t worth risking your life.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
